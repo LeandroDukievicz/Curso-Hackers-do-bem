@@ -6,9 +6,13 @@
 
 #
 
+<<<<<<< HEAD
 ### Módulo Nivelamento em andamento !!
 
 
+=======
+### Módulo de nivelamento em andamento !!
+>>>>>>> 8cbff22fa5a9a46cb84915f342f109682032ceb9
 
 
 
