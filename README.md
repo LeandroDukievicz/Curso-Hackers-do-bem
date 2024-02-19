@@ -6,13 +6,11 @@
 
 #
 
-<<<<<<< HEAD
-### Módulo Nivelamento em andamento !!
+### Módulo Nivelamento concluído em 18/02/24
 
 
 =======
-### Módulo de nivelamento em andamento !!
->>>>>>> 8cbff22fa5a9a46cb84915f342f109682032ceb9
+
 
 
 
