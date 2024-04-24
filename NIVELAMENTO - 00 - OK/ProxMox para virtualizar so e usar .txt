@@ -1,0 +1,2 @@
+ProxMox para virtualizar so e usar ele via ip no navegador 
+
